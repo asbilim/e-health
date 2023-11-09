@@ -11,6 +11,7 @@ export const COLORS = {
     "grey":"#9DA8C3",
     "purpleGradient":"#8465FF",
     "blue":"#1D91FF",
-    "black":"#000"
+    "black":"#000",
+    "darkWhite":"#FAFAFA"
 
 }
